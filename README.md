@@ -20,9 +20,7 @@ The repository is organized into folders for each day of the challenge. Each day
 - **Solution:** My implementation of the solution in Python/Java/C++ (choose the language you prefer).
 - **Time and Space Complexity Analysis:** Evaluation of the efficiency of my solution.
 
-## Progress
 
-I will update the progress regularly in the [Progress.md](Progress.md) file, summarizing the topics covered, challenges faced, and lessons learned each day.
 
 ## How to Use
 
@@ -30,4 +28,4 @@ Feel free to use this repository as a reference or join me in the challenge! Clo
 
 ```bash
 git clone https://github.com/your-username/90-days-dsa-challenge.git
-cd 90-days-dsa-challenge
+cd 90_days_dsa_challenge
